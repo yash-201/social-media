@@ -3,6 +3,7 @@ node_modules
 
 images/*
 !images/avatar.jpeg
+!images/post
 
 images/post/*
-!images/post/avatar.jpeg
+!images/post/post.jpeg
