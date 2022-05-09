@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "Yash",
+        "MONGO_PASSWORD": "yash",
+        "MONGO_DATABASE": "firstDataBase",
+        "STRIPE_KEY": ""
+    }
+}
